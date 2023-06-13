@@ -1,0 +1,7 @@
+TESTING:
+
+Det er til at bestemme et systems evne af forskellige performance parametre: responsiveness, throughput, reliability og scalability 
+under en bestemt workload.
+Er med til at bestemme produktionsklarhed
+Finde eventuelle performance problemer
+Finde bugs under load (Concurrency errors mm.)

@@ -1,0 +1,19 @@
+Performance engineering:
+
+Hvis man ser på Performance som en kvalitetsattribut, så omhandler det ofte "R" responstiden, "TPS" Transaktioner pr. sekund
+(U) Utilization og (C) Capacity, hvor meget af vores kapacitet vi bruger.
+
+Gode QAS (Quality Attribute Scenario) med målbare scenarier.
+Design herefter systemet efter dette.
+Vertical scaling - Større CPU/HArdware
+Horizontal - Paralelliser processor - flere servere
+Performance testing
+Hardware - Processor, Hukommelse, Disk I/O, Network
+Software - Operating system
+Kan have konflikt med andre QA - Cost, Security, Modifiability, availability
+
+Query Theory:
+
+Køteory forudsiger opførsel i systemer
+
+Køkon

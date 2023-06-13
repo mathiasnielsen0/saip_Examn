@@ -1,0 +1,13 @@
+Big Data:
+
+Ny generation af massive applikationer, med gigantiske datasæt - Google, facebook, Amazon mm.
+Samt at datasættene udvider sig utroligt hurtigt - se Facebook
+Vi vil gerne opnå en god availability, og at der ikke er lang ventetid, for at sikre at vi ikke taber brugere.
+
+Performance
+Availability
+
+To typer
+- Relationel og ikke relationel - NoSql
+
+Det er nemmere at skrive end at læse, og query time er næsten logaritmisk
